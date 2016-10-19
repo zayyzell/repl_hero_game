@@ -1,0 +1,1 @@
+My classmate designed a game for his homework that's all about being a hero. You go though the game making heroic choices or not! Grab the code and enjoy. 
